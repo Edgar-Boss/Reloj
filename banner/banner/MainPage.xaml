@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:controls="clr-namespace:MarcTron.Plugin.Controls;assembly=Plugin.MtAdmob"
+             
+             x:Class="banner.MainPage"
+             BackgroundColor="White">
+
+    <StackLayout x:Name="stk_base" Margin="0" BackgroundColor="White">
+
+        <ImageButton    Source="oscuro.png"
+                        x:Name="btn_color"
+                        BackgroundColor="Transparent"
+                        VerticalOptions="StartAndExpand" 
+                        HorizontalOptions="End"
+                        WidthRequest="20"
+                        HeightRequest="20"
+                        Clicked="btn_color_Clicked"
+                />
+
+        <Label  x:Name="clockLabel"
+                TextColor="Gray"
+                BackgroundColor="Transparent"
+                VerticalOptions="FillAndExpand" 
+                
+                
+                />
+
+        <Frame BackgroundColor="Transparent" HasShadow="False">
+
+            
+            <controls:MTAdView   
+                            HeightRequest="60"
+                            IsEnabled="True"
+                            IsVisible="True"
+                            x:Name="MisAds"
+                            AdsId="ca-app-pub-8967169262052512/3756587341"
+                            BackgroundColor="Transparent"/>
+        </Frame>
+
+    </StackLayout>
+
+</ContentPage>
+
+
+
