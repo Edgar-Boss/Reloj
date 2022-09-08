@@ -10,7 +10,7 @@ namespace banner
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new PaginaColores();
         }
 
         protected override void OnStart()

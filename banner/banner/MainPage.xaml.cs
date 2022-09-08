@@ -18,7 +18,7 @@ namespace banner
                 // Scale the font size to the page width
                 // (based on 11 characters in the displayed string).
                 if (this.Width > 0)
-                    clockLabel.FontSize = this.Width / 6;
+                    clockLabel.FontSize = this.Width / 6.5;
             };
             // Start the timer going.
             Device.StartTimer(TimeSpan.FromSeconds(0.9), () =>

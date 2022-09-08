@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="banner.PaginaColores">
+
+    <ScrollView>
+        <StackLayout x:Name="stk">
+            <Frame x:Name="fram" BackgroundColor="Black"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
