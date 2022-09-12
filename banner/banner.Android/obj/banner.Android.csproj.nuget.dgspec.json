@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos\\Reloj\\banner\\banner\\banner.Android\\banner.Android.csproj": {}
+    "C:\\Users\\Edgar\\OneDrive\\Escritorio\\Nueva carpeta (2)\\Reloj-main\\banner\\banner.Android\\banner.Android.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos\\Reloj\\banner\\banner\\banner.Android\\banner.Android.csproj": {
+    "C:\\Users\\Edgar\\OneDrive\\Escritorio\\Nueva carpeta (2)\\Reloj-main\\banner\\banner.Android\\banner.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\Reloj\\banner\\banner\\banner.Android\\banner.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Edgar\\OneDrive\\Escritorio\\Nueva carpeta (2)\\Reloj-main\\banner\\banner.Android\\banner.Android.csproj",
         "projectName": "banner.Android",
-        "projectPath": "D:\\Proyectos\\Reloj\\banner\\banner\\banner.Android\\banner.Android.csproj",
+        "projectPath": "C:\\Users\\Edgar\\OneDrive\\Escritorio\\Nueva carpeta (2)\\Reloj-main\\banner\\banner.Android\\banner.Android.csproj",
         "packagesPath": "C:\\Users\\Edgar\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\Reloj\\banner\\banner\\banner.Android\\obj\\",
+        "outputPath": "C:\\Users\\Edgar\\OneDrive\\Escritorio\\Nueva carpeta (2)\\Reloj-main\\banner\\banner.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "D:\\Proyectos\\Reloj\\banner\\banner\\banner\\banner.csproj": {
-                "projectPath": "D:\\Proyectos\\Reloj\\banner\\banner\\banner\\banner.csproj"
+              "C:\\Users\\Edgar\\OneDrive\\Escritorio\\Nueva carpeta (2)\\Reloj-main\\banner\\banner\\banner.csproj": {
+                "projectPath": "C:\\Users\\Edgar\\OneDrive\\Escritorio\\Nueva carpeta (2)\\Reloj-main\\banner\\banner\\banner.csproj"
               }
             }
           }
@@ -58,14 +58,14 @@
         }
       }
     },
-    "D:\\Proyectos\\Reloj\\banner\\banner\\banner\\banner.csproj": {
+    "C:\\Users\\Edgar\\OneDrive\\Escritorio\\Nueva carpeta (2)\\Reloj-main\\banner\\banner\\banner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\Reloj\\banner\\banner\\banner\\banner.csproj",
+        "projectUniqueName": "C:\\Users\\Edgar\\OneDrive\\Escritorio\\Nueva carpeta (2)\\Reloj-main\\banner\\banner\\banner.csproj",
         "projectName": "banner",
-        "projectPath": "D:\\Proyectos\\Reloj\\banner\\banner\\banner\\banner.csproj",
+        "projectPath": "C:\\Users\\Edgar\\OneDrive\\Escritorio\\Nueva carpeta (2)\\Reloj-main\\banner\\banner\\banner.csproj",
         "packagesPath": "C:\\Users\\Edgar\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\Reloj\\banner\\banner\\banner\\obj\\",
+        "outputPath": "C:\\Users\\Edgar\\OneDrive\\Escritorio\\Nueva carpeta (2)\\Reloj-main\\banner\\banner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -13,13 +13,17 @@ namespace banner
     public partial class PaginaColores : ContentPage
     {
         List<Color> lista_colores = new List<Color>();
+        List<Color> list_col = new List<Color>();
+        
         public PaginaColores()
         {
+            list_col.Add(Color.White);
+            list_col.Add(Color.Black);
+
             InitializeComponent();
+            pk_seleccion.SelectedIndex = 0;
             View CreateColorView(Color color, string name, int index)
             {
-
-
                 Frame nuevo_frame = new Frame
                 {
                     BorderColor = Color.Blue,
@@ -104,7 +108,19 @@ namespace banner
         private void TapGestureRecognizer_Tapped(object sender, EventArgs e)
         {
             Frame f = (Frame)sender;
-            fram.BackgroundColor = lista_colores.ElementAt(f.TabIndex);
+            
+            if (pk_seleccion.SelectedItem.ToString() == "Fondo")
+            {
+                fram.BackgroundColor = lista_colores.ElementAt(f.TabIndex);
+                list_col[0] = lista_colores.ElementAt(f.TabIndex);
+            }
+            if (pk_seleccion.SelectedItem.ToString() == "Texto")
+            {
+                pk_seleccion.TextColor = lista_colores.ElementAt(f.TabIndex);
+                list_col[1] = lista_colores.ElementAt(f.TabIndex);
+            }
+
+            
 
         }
     }

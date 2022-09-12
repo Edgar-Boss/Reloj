@@ -46,10 +46,11 @@ namespace banner
                 btn_color.Source = "oscuro.png";
                 clockLabel.TextColor = Color.Gray;
             }
-            
-        
-            
-        
-        }       
+        }
+
+        private async void btn_paleta_color_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new PaginaColores());
+        }
     }
 }

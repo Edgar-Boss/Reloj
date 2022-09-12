@@ -3,9 +3,31 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="banner.PaginaColores">
 
-    <ScrollView>
-        <StackLayout x:Name="stk">
-            <Frame x:Name="fram" BackgroundColor="Black"/>
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout>
+              
+                <Frame x:Name="fram">
+                    <Picker x:Name="pk_seleccion" HorizontalTextAlignment="Center">
+                        <Picker.Items>
+                            <x:String>Fondo</x:String>
+                            <x:String>Texto</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </Frame>
+            </StackLayout>
+            <ScrollView>
+                <StackLayout x:Name="stk">
+                    
+                </StackLayout>
+            </ScrollView>
+            <StackLayout Orientation="Horizontal" Spacing="0" Margin="0">
+                <Button Text="Aplicar" HorizontalOptions = "FillAndExpand" Margin="0"/>
+                <Button Text="Descartar" HorizontalOptions="FillAndExpand" Margin="0"/>
+            </StackLayout>
+
         </StackLayout>
-    </ScrollView>
+        
+    </ContentPage.Content>
+    
 </ContentPage>

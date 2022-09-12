@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u05C+CLY1uSLdaItvwOzxgSOqdI9apJUTyF7xz8VZqJ6uCBChF3sb/BK0ZLGKEro6cGF4/34n/x/1DJaR/X6Qg==",
+  "dgSpecHash": "Hq4Sez1FADqxkHhIdKGRAQhUj2ygHs3KU66Y1YxKZ7WQeDhl10AH6+5+IvTNgPVkCsm4oq1foFZpp4/Co3sc3g==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\Reloj\\banner\\banner\\banner.Android\\banner.Android.csproj",
+  "projectFilePath": "C:\\Users\\Edgar\\OneDrive\\Escritorio\\Nueva carpeta (2)\\Reloj-main\\banner\\banner.Android\\banner.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edgar\\.nuget\\packages\\marctron.admob\\1.8.0\\marctron.admob.1.8.0.nupkg.sha512",
     "C:\\Users\\Edgar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

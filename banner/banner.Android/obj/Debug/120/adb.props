@@ -1,2 +1,2 @@
-AdbTarget=-s R9AT4004TCR
+AdbTarget=-s 192.168.100.12:5555
 AdbOptions=
