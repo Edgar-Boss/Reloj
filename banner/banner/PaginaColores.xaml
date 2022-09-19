@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             NavigationPage.HasNavigationBar="False"
              x:Class="banner.PaginaColores">
 
     <ContentPage.Content>
@@ -8,7 +9,7 @@
             <StackLayout>
               
                 <Frame x:Name="fram">
-                    <Picker x:Name="pk_seleccion" HorizontalTextAlignment="Center">
+                    <Picker x:Name="pk_seleccion" HorizontalTextAlignment="Center" StyleId="s">
                         <Picker.Items>
                             <x:String>Fondo</x:String>
                             <x:String>Texto</x:String>
@@ -22,8 +23,8 @@
                 </StackLayout>
             </ScrollView>
             <StackLayout Orientation="Horizontal" Spacing="0" Margin="0">
-                <Button Text="Aplicar" HorizontalOptions = "FillAndExpand" Margin="0"/>
-                <Button Text="Descartar" HorizontalOptions="FillAndExpand" Margin="0"/>
+                <Button x:Name="btn_aplicar" Text="Aplicar" HorizontalOptions = "FillAndExpand" Margin="0" Clicked="btn_aplicar_Clicked" />
+                <Button x:Name="btn_descartar" Text="Descartar" HorizontalOptions="FillAndExpand" Margin="0" Clicked="btn_descartar_Clicked"/>
             </StackLayout>
 
         </StackLayout>

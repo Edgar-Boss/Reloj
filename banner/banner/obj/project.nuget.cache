@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2s94Av+t7AuoSs1DdfOhiZmV4ZbistiCEFcnxGCf0ITC9EGYg1IFrve20FHZxls6ealtb7tll5rHaGz0LoAlOg==",
+  "dgSpecHash": "Nv5IyA2v72n3ovsKRiivgZeIs/wuFV1jEpG6TZBwBbSIJMYKKd4sg9NPfZL40GcrMInU5CRXSMfwANs78YKmNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Edgar\\OneDrive\\Escritorio\\Nueva carpeta (2)\\Reloj-main\\banner\\banner\\banner.csproj",
+  "projectFilePath": "D:\\Proyectos\\Reloj\\banner\\banner\\banner\\banner.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edgar\\.nuget\\packages\\marctron.admob\\1.8.0\\marctron.admob.1.8.0.nupkg.sha512",
     "C:\\Users\\Edgar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

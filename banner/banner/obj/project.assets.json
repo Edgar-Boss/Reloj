@@ -592,11 +592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Edgar\\OneDrive\\Escritorio\\Nueva carpeta (2)\\Reloj-main\\banner\\banner\\banner.csproj",
+      "projectUniqueName": "D:\\Proyectos\\Reloj\\banner\\banner\\banner\\banner.csproj",
       "projectName": "banner",
-      "projectPath": "C:\\Users\\Edgar\\OneDrive\\Escritorio\\Nueva carpeta (2)\\Reloj-main\\banner\\banner\\banner.csproj",
+      "projectPath": "D:\\Proyectos\\Reloj\\banner\\banner\\banner\\banner.csproj",
       "packagesPath": "C:\\Users\\Edgar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Edgar\\OneDrive\\Escritorio\\Nueva carpeta (2)\\Reloj-main\\banner\\banner\\obj\\",
+      "outputPath": "D:\\Proyectos\\Reloj\\banner\\banner\\banner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

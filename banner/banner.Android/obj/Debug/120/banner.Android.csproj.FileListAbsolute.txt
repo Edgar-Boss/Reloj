@@ -1517,7 +1517,6 @@ D:\Proyectos\Reloj\banner\banner\banner.Android\obj\Debug\120\res\mipmap-mdpi\la
 D:\Proyectos\Reloj\banner\banner\banner.Android\obj\Debug\120\res\mipmap-xhdpi\launcher_foreground.png
 D:\Proyectos\Reloj\banner\banner\banner.Android\obj\Debug\120\res\mipmap-xxhdpi\launcher_foreground.png
 D:\Proyectos\Reloj\banner\banner\banner.Android\obj\Debug\120\res\mipmap-xxxhdpi\launcher_foreground.png
-D:\Proyectos\Reloj\banner\banner\banner.Android\obj\Debug\120\res\drawable\claro.png
 D:\Proyectos\Reloj\banner\banner\banner.Android\obj\Debug\120\res\drawable\oscuro.png
 D:\Proyectos\Reloj\banner\banner\banner.Android\obj\Debug\120\res\mipmap-hdpi\custom.png
 D:\Proyectos\Reloj\banner\banner\banner.Android\obj\Debug\120\res\mipmap-mdpi\custom.png
@@ -3644,3 +3643,5 @@ C:\Users\Edgar\OneDrive\Escritorio\Nueva carpeta (2)\Reloj-main\banner\banner.An
 C:\Users\Edgar\OneDrive\Escritorio\Nueva carpeta (2)\Reloj-main\banner\banner.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 C:\Users\Edgar\OneDrive\Escritorio\Nueva carpeta (2)\Reloj-main\banner\banner.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Edgar\OneDrive\Escritorio\Nueva carpeta (2)\Reloj-main\banner\banner.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+D:\Proyectos\Reloj\banner\banner\banner.Android\obj\Debug\120\res\drawable\icon_paleta_colores.png
+D:\Proyectos\Reloj\banner\banner\banner.Android\obj\Debug\120\res\drawable\claro.png

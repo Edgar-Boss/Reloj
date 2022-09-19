@@ -1,0 +1,16 @@
+D:\Proyectos\Reloj\banner\banner\banner\bin\Release\netstandard2.0\banner.deps.json
+D:\Proyectos\Reloj\banner\banner\banner\bin\Release\netstandard2.0\banner.dll
+D:\Proyectos\Reloj\banner\banner\banner\bin\Release\netstandard2.0\banner.pdb
+D:\Proyectos\Reloj\banner\banner\banner\obj\Release\netstandard2.0\banner.csproj.AssemblyReference.cache
+D:\Proyectos\Reloj\banner\banner\banner\obj\Release\netstandard2.0\banner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Reloj\banner\banner\banner\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\Proyectos\Reloj\banner\banner\banner\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\Proyectos\Reloj\banner\banner\banner\obj\Release\netstandard2.0\PaginaColores.xaml.g.cs
+D:\Proyectos\Reloj\banner\banner\banner\obj\Release\netstandard2.0\banner.AssemblyInfoInputs.cache
+D:\Proyectos\Reloj\banner\banner\banner\obj\Release\netstandard2.0\banner.AssemblyInfo.cs
+D:\Proyectos\Reloj\banner\banner\banner\obj\Release\netstandard2.0\banner.csproj.CoreCompileInputs.cache
+D:\Proyectos\Reloj\banner\banner\banner\obj\Release\netstandard2.0\XamlC.stamp
+D:\Proyectos\Reloj\banner\banner\banner\obj\Release\netstandard2.0\banner.dll
+D:\Proyectos\Reloj\banner\banner\banner\obj\Release\netstandard2.0\refint\banner.dll
+D:\Proyectos\Reloj\banner\banner\banner\obj\Release\netstandard2.0\banner.pdb
+D:\Proyectos\Reloj\banner\banner\banner\obj\Release\netstandard2.0\ref\banner.dll
